@@ -2,7 +2,7 @@
 
 I'm a Full-Stack engineer with 10+ years in software and working with companies all over the planet:
 
-- Interest in Growth Engineering, Page Performance and Marketing
+- Interest in Growth Engineering, Page Performance, SEO and Marketing
 - Using tools such as React, Node.js, Next.js, Ruby on Rails and Laravel.
 - Previously working with companies like Upwork.com and Dribbble.com
 
